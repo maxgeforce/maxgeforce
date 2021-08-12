@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxgeforce
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c and java
 - 💞️ I’m looking to collaborate on c programs
 - 📫 How to reach me maximiliano.fernandez11@gmail.com
 
